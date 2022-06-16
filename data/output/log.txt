@@ -1,0 +1,16 @@
+2022-06-01: The KPIs for the file yellow_tripdata_2022-06-01.parquet have been computed
+2022-06-02: The KPIs for the file yellow_tripdata_2022-06-02.parquet have been computed
+2022-06-03: The KPIs for the file yellow_tripdata_2022-06-03.parquet have been computed
+2022-06-04: The KPIs for the file yellow_tripdata_2022-06-04.parquet have been computed
+2022-06-05: The KPIs for the file yellow_tripdata_2022-06-05.parquet have been computed
+2022-06-06: The KPIs for the file yellow_tripdata_2022-06-06.parquet have been computed
+2022-06-07: The KPIs for the file yellow_tripdata_2022-06-07.parquet have been computed
+2022-06-08: The KPIs for the file yellow_tripdata_2022-06-08.parquet have been computed
+2022-06-09: The KPIs for the file yellow_tripdata_2022-06-09.parquet have been computed
+2022-06-10: The KPIs for the file yellow_tripdata_2022-06-10.parquet have been computed
+2022-06-11: The KPIs for the file yellow_tripdata_2022-06-11.parquet have been computed
+2022-06-12: The KPIs for the file yellow_tripdata_2022-06-12.parquet have been computed
+2022-06-13: The KPIs for the file yellow_tripdata_2022-06-13.parquet have been computed
+2022-06-14: The KPIs for the file yellow_tripdata_2022-06-14.parquet have been computed
+2022-06-15: The KPIs for the file yellow_tripdata_2022-06-15.parquet have been computed
+2022-06-16: The KPIs for the file yellow_tripdata_2022-06-16.parquet have been computed

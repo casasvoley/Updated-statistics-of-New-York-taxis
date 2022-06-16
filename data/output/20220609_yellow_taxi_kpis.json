@@ -1,0 +1,10 @@
+{
+    "average_price_per_mile": 7.969383632104104,
+    "credit_card_freq": 93424,
+    "cash_freq": 21333,
+    "no_charge_freq": 466,
+    "dispute_freq": 491,
+    "unknown_freq": 0,
+    "voided_trip_freq": 0,
+    "average_custom_indicator": 2.3691322736609557
+}
