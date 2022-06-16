@@ -7,8 +7,8 @@ trips and saving those KPIs in a JSON file. The computed KPIs are:
        - The distribution of payment types
        - The following custom indicator: (amount of tip + extra payment) / trip distance
 
-The program also keeps a log of the data for which the KPIs have already been computed. It is located in the output
- folder.
+The program also keeps a log of the data for which the KPIs have already been computed. It is
+located in the output folder.
 
 #################################################################################################
                                             USAGE
